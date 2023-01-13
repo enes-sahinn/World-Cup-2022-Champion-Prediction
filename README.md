@@ -1,4 +1,4 @@
-# Sorting Algorithms
+# World Cup 2022 Champion Prediction
 
 ## Table of Contents
 
